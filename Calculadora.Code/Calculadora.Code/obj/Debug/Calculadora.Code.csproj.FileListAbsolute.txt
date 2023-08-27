@@ -1,0 +1,11 @@
+C:\Users\usuario\Desktop\C#\.vs\Calculadora.Code\Calculadora.Code\bin\Debug\Calculadora.Code.exe.config
+C:\Users\usuario\Desktop\C#\.vs\Calculadora.Code\Calculadora.Code\bin\Debug\Calculadora.Code.exe
+C:\Users\usuario\Desktop\C#\.vs\Calculadora.Code\Calculadora.Code\bin\Debug\Calculadora.Code.pdb
+C:\Users\usuario\Desktop\C#\.vs\Calculadora.Code\Calculadora.Code\obj\Debug\Calculadora.Code.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\C#\.vs\Calculadora.Code\Calculadora.Code\obj\Debug\Calculadora.Code.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\C#\.vs\Calculadora.Code\Calculadora.Code\obj\Debug\Calculadora.Code.exe
+C:\Users\usuario\Desktop\C#\.vs\Calculadora.Code\Calculadora.Code\obj\Debug\Calculadora.Code.pdb
+C:\Users\usuario\Desktop\C#\.vs\Calculadora.Code\Calculadora.Code\bin\Debug\Calculadora.Code.exe.manifest
+C:\Users\usuario\Desktop\C#\.vs\Calculadora.Code\Calculadora.Code\bin\Debug\Calculadora.Code.application
+C:\Users\usuario\Desktop\C#\.vs\Calculadora.Code\Calculadora.Code\obj\Debug\Calculadora.Code.exe.manifest
+C:\Users\usuario\Desktop\C#\.vs\Calculadora.Code\Calculadora.Code\obj\Debug\Calculadora.Code.application
